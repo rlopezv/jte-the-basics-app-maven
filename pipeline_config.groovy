@@ -1,5 +1,6 @@
 libraries{
   maven
+  ansible
 }
 
 application_environments{
