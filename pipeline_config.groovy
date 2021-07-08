@@ -1,5 +1,7 @@
 libraries{
-  maven
+  maven {
+    version = "3.2.3"
+  }
   ansible
 }
 
