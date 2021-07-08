@@ -5,10 +5,10 @@ libraries{
 
 application_environments{
   dev {
-      long_name = "Development"
+      long_name = "dev.app.maven"
    }
   prod {
-      long_name = "Development"
+      long_name = "prod.app.maven"
    }
 
 }
