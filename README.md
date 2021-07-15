@@ -1,3 +1,3 @@
 # jte-the-basics-app-maven
 
-edit
+edit trigger
